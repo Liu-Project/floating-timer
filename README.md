@@ -39,10 +39,15 @@ without leaving your screen corner.
 
 ## 🎬 Demo
 
-![demo](./assets/demo.gif)
+| Countdown | Stopwatch |
+|:---:|:---:|
+| ![countdown](./assets/demo.gif) | ![stopwatch](./assets/demo-countup.gif) |
 
-A 10-second countdown running to zero — watch the color turn orange in the
-final minute and flash red when time is up.
+**Countdown** — a 10-second timer running to zero: the color turns orange in
+the final minute and flashes red when time is up.
+
+**Stopwatch** — counting up across a minute boundary (`00:59 → 01:00`): the
+clock flashes red at every full minute.
 
 ## 📸 Screenshots
 
