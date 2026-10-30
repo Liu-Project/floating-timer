@@ -39,26 +39,11 @@ without leaving your screen corner.
 
 ## 📸 Screenshots
 
-> **Coming soon** — add your screenshots here to make this project shine!
->
-> 1. Run the app on your desktop.
-> 2. Save a PNG/GIF into the [`assets/`](assets) directory.
-> 3. Reference it below, e.g.:
+| Countdown (last minute) | Stopwatch (running) | Idle |
+|:---:|:---:|:---:|
+| ![countdown](./assets/screenshot-countdown.png) | ![stopwatch](./assets/screenshot-stopwatch.png) | ![idle](./assets/screenshot-idle.png) |
 
-```markdown
-![countdown](./assets/screenshot-countdown.png)
-```
-
-<!--
-## Demo
-
-![demo](./assets/demo.gif)
-
-## Screenshots
-
-![countdown](./assets/screenshot-countdown.png)
-![stopwatch](./assets/screenshot-stopwatch.png)
--->
+> 💡 Want to see more states? Run it yourself — it only takes one command:
 
 ## 📦 Install
 
