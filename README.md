@@ -51,9 +51,9 @@ clock flashes red at every full minute.
 
 ## 📸 Screenshots
 
-| Countdown (last minute) | Stopwatch (running) | Idle |
-|:---:|:---:|:---:|
-| ![countdown](./assets/screenshot-countdown.png) | ![stopwatch](./assets/screenshot-stopwatch.png) | ![idle](./assets/screenshot-idle.png) |
+| Minute flash (01:00) | Countdown (last minute) | Stopwatch (running) | Idle |
+|:---:|:---:|:---:|:---:|
+| ![minute](./assets/screenshot-minute.png) | ![countdown](./assets/screenshot-countdown.png) | ![stopwatch](./assets/screenshot-stopwatch.png) | ![idle](./assets/screenshot-idle.png) |
 
 > 💡 Want to see more states? Run it yourself — it only takes one command:
 
