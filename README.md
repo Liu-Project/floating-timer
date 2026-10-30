@@ -37,6 +37,13 @@ without leaving your screen corner.
 - **No dependencies** — standard library only; runs anywhere Python + Tkinter
   are available.
 
+## 🎬 Demo
+
+![demo](./assets/demo.gif)
+
+A 10-second countdown running to zero — watch the color turn orange in the
+final minute and flash red when time is up.
+
 ## 📸 Screenshots
 
 | Countdown (last minute) | Stopwatch (running) | Idle |
