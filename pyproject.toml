@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "floating-timer"
+version = "1.0.0"
+description = "A translucent, always-on-top countdown / stopwatch widget for your desktop"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Liu-Project" },
+]
+keywords = ["timer", "countdown", "stopwatch", "tkinter", "desktop", "productivity"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: X11 Applications",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Topic :: Desktop Environment",
+    "Topic :: Utilities",
+]
+
+[project.scripts]
+floating-timer = "floating_timer:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+py-modules = ["floating_timer"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
